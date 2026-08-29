@@ -1,4 +1,4 @@
-# Data-Analytics-Project
+# Data-Engineering-Project
 My university data science projects.
 import pandas as pd 
 import sqlite3
